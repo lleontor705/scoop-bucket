@@ -1,0 +1,22 @@
+{
+    "version": "0.4.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/lleontor705/cortex-ia/releases/download/v0.4.0/cortex-ia_0.4.0_windows_amd64.zip",
+            "bin": [
+                "cortex-ia.exe"
+            ],
+            "hash": "25518a74281b60c2da3ed06b9153fdb9c6e7565b9db7b7e6afbaf7e0e829951b"
+        },
+        "arm64": {
+            "url": "https://github.com/lleontor705/cortex-ia/releases/download/v0.4.0/cortex-ia_0.4.0_windows_arm64.zip",
+            "bin": [
+                "cortex-ia.exe"
+            ],
+            "hash": "0d23608b899d717e404b3e34526cbe9fb46b52d462dc7d3da3cf30cfe3e62ab6"
+        }
+    },
+    "homepage": "https://github.com/lleontor705/cortex-ia",
+    "license": "MIT",
+    "description": "AI Agent Ecosystem Configurator — persistent memory, SDD workflow, inter-agent messaging, multi-CLI orchestration"
+}
