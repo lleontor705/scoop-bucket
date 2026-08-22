@@ -1,19 +1,19 @@
 {
-    "version": "0.4.0",
+    "version": "0.4.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/lleontor705/cortex-ia/releases/download/v0.4.0/cortex-ia_0.4.0_windows_amd64.zip",
+            "url": "https://github.com/lleontor705/cortex-ia/releases/download/v0.4.1/cortex-ia_0.4.1_windows_amd64.zip",
             "bin": [
                 "cortex-ia.exe"
             ],
-            "hash": "25518a74281b60c2da3ed06b9153fdb9c6e7565b9db7b7e6afbaf7e0e829951b"
+            "hash": "50f7058b706d97964ce65bd6a33731a4ec0fc9734feefa856ab479737adc841a"
         },
         "arm64": {
-            "url": "https://github.com/lleontor705/cortex-ia/releases/download/v0.4.0/cortex-ia_0.4.0_windows_arm64.zip",
+            "url": "https://github.com/lleontor705/cortex-ia/releases/download/v0.4.1/cortex-ia_0.4.1_windows_arm64.zip",
             "bin": [
                 "cortex-ia.exe"
             ],
-            "hash": "0d23608b899d717e404b3e34526cbe9fb46b52d462dc7d3da3cf30cfe3e62ab6"
+            "hash": "823cecf6e4ebb8bf1641cc32777e3f03233561b7a7899ae88b607581379f9d7a"
         }
     },
     "homepage": "https://github.com/lleontor705/cortex-ia",
